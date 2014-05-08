@@ -1,0 +1,23 @@
+{
+  "appetizer": [
+    "Nachos",
+    "Mozzerella Sticks",
+    "Chicken Wings",
+    "Chips and Salsa",
+    "French Fries"
+  ],
+  "entree": [
+    "Hamburger",
+    "Chicken Strips",
+    "Fried Chicken"
+  ],
+  "dessert": [
+    "Chocolate Cake",
+    "Apple Pie"
+  ],
+  "drink": [
+    "Coca Cola",
+    "Root Beer",
+    "Seven Up"
+  ]
+}
